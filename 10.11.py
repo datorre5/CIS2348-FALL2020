@@ -1,3 +1,6 @@
+#Daniel Torres
+#PSID: 1447167
+
 class FoodItem:
 
     def __init__(self, name=None, fat=0.0, carbs=0.0, protein=0.0):
