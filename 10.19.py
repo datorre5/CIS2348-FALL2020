@@ -1,3 +1,7 @@
+#Daniel Torres
+#PSID: 1447167
+
+
 class ItemToPurchase:
     def __init__(self, name='none', price=0, quantity=0, description='none'):
         self.item_name = name
