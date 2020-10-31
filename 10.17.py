@@ -1,3 +1,6 @@
+#Daniel Torres
+#PSID: 1447167
+
 class ItemToPurchase:
 
     def __init__(self):
