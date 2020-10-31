@@ -1,3 +1,6 @@
+#Daniel Torres
+#PSID: 1447167
+
 class Team:
     def __init__(self):
         self.teamname = 'none'
