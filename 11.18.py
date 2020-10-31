@@ -1,3 +1,7 @@
+#Daniel Torres
+#PSID: 1447167
+
+
 list= list(map(int,input().split()))
 numbers=[]
 for i in list:
