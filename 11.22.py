@@ -1,3 +1,6 @@
+#Daniel Torres
+#PSID: 1447167
+
 words = input()
 words = words.split(" ")
 freq = {}
